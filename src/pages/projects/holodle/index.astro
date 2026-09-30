@@ -12,14 +12,14 @@ import CaseStudy from '../../../layouts/CaseStudy.astro'
 
   <h2>Why I built it</h2>
   <p>
-    A Discord community I’m in wanted a daily guessing game about the VTubers (streamers who use animated avatars) they follow, something like Wordle but played together in a voice call. Everyone gets the same puzzle, you can watch your friends’ progress as it
+    A Discord community I’m in wanted a daily guessing game about the VTubers (streamers who use animated avatars) they follow, something like Wordle that friends could play together as a Discord Activity. Everyone gets the same puzzle, you can watch your friends’ progress as it
     happens, and nobody can spoil the answer.
   </p>
 
   <h2>How it works</h2>
   <p>
     It’s a Discord Activity, which is a web app that runs inside Discord. The front end is React, and the server
-    uses Fastify and Socket.IO for live updates. Other players in the call see your colored squares but not who you guessed.
+    uses Fastify and Socket.IO for live updates. Other players see your colored squares but not who you guessed.
   </p>
   <p>
     The answer isn’t sent to your browser until your game is over. The server grades every guess, so there’s nothing to dig out of the page.

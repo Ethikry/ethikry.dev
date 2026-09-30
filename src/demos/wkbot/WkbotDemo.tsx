@@ -206,12 +206,12 @@ const REMINDERS: { member: string; level: number; text: string }[] = [
   {
     member: 'mochi',
     level: 4,
-    text: 'あれ〜？ @mochi、今日のレビュー、まだおわってないの？\nカニーちゃん、ずっと見てるんだけど〜。\n十こだけでもいいから、はやくやってきてほしいなぁ💢',
+    text: '@mochi さん、今日のレビューがまだのこっています。\nねるまえに、すこしだけでもやってみましょう。',
   },
   {
     member: 'kaede',
     level: 22,
-    text: 'えー？ @kaede、今日のレビュー、まだ終わってないの？\n漢字たちがずっと待ってるって、カニーちゃん知ってるんだから。\n今からならまだ間に合うって、カニーちゃんは信じてるよ💢',
+    text: '@kaede さん、今日のレビューがまだ終わっていないようです。\n今からでも十分間に合います。毎日つづけていきましょう。',
   },
 ]
 
@@ -253,10 +253,9 @@ function Reminders() {
         })}
       </div>
       <p className="note">
-        These are sample reminders written to the same rules the bot gives the LLM: two or three playful lines
-        from the bot’s mascot, vocabulary that fits the person’s level, and only kanji they already know. The
-        check above runs that kanji rule on the text. If the API is down or slow, the bot sends a plain message
-        instead.
+        These are sample reminders written to the same rules the bot gives the LLM: a short, polite note in
+        Japanese, vocabulary that fits the person’s level, and only kanji they already know. The check above runs
+        that kanji rule on the text. If the API is down or slow, the bot sends a plain message instead.
       </p>
     </div>
   )

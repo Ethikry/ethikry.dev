@@ -28,7 +28,7 @@ export const PROJECTS: Project[] = [
     slug: 'song-rank',
     title: 'Song Rank',
     blurb:
-      'Every year my friends and I rank each other’s favorite songs. I built a stats site from four years of our spreadsheets, and the group looks forward to it every year.',
+      'Every year my friends and I rank each other’s favorite songs. I built a stats site from four years of our spreadsheets to help visualize our tastes, rivalries, and favorites.',
     summary:
       'An analytics site for a yearly song-ranking party: leaderboards, awards, taste comparisons, and a slideshow for the reveal.',
     stack: ['TypeScript', 'React', 'Vite', 'SVG', 'Cloudflare'],
@@ -41,14 +41,14 @@ export const PROJECTS: Project[] = [
       'Uses correlation to show whose taste lines up with whose, then breaks that down to the artists behind it.',
       'Recounts the votes a few different ways (Borda count, median, trimmed mean) to see how much the method changes the winner.',
       'Before every release, it compares its numbers with the group’s own spreadsheet analysis, and all 1,205 comparisons match.',
-      'The public version swaps out everyone’s names but keeps the real scores, and a script blocks any release that still has a real name in it.',
+      'The public version swaps out everyone’s names but keeps the real scores.',
     ],
   },
   {
     slug: 'product-monitor',
     title: 'Product Monitor',
     blurb:
-      'Keeps a few Discord communities posted on new and restocked items from two online stores, usually within 20 seconds of them going up.',
+      'Keeps a few Discord communities posted on new and restocked items from two online stores within about 20 seconds of them going up.',
     summary:
       'A 24/7 bot that posts new products, restocks and sell-outs from two online stores to several Discord servers, backed by a SQLite database I designed.',
     stack: ['Python', 'SQLite', 'SQL', 'AWS S3', 'Discord API', 'Linux'],
@@ -110,9 +110,9 @@ export const PROJECTS: Project[] = [
     slug: 'flight-monitor',
     title: 'Flight Price Monitor',
     blurb:
-      'Keeps an eye on the trips I want to take, for both points and cash fares, and only alerts me when a price is worth acting on.',
+      'Keeps an eye on the trips I want to take, for both points and cash fares, and only alerts me when a price is worth acting on. It was more useful before Google Flights added award fares 😂',
     summary:
-      'Tracks award (points) and cash fares for saved trips, alerts on new lows and target prices, and limits smaller drops to one alert a day.',
+      'Tracks award points and cash fares for saved trips, alerts on new lows and target prices, and limits smaller drops to one alert a day.',
     stack: ['Python', 'FastAPI', 'SQLAlchemy', 'SQLite', 'JavaScript'],
     dates: 'Apr – Sep 2026',
     role: 'Solo project',
@@ -130,9 +130,9 @@ export const PROJECTS: Project[] = [
     slug: 'holodle',
     title: 'Holodle',
     blurb:
-      'A daily guessing game that runs inside Discord calls. Everyone plays the same puzzle and watches each other’s progress without seeing the answers.',
+      'A guessing game that runs inside Discord. Everyone plays the same daily puzzle and can watch each other’s progress without seeing the answers.',
     summary:
-      'A Wordle-style daily game played inside Discord voice channels, with live progress from everyone in the call.',
+      'A Wordle-style daily game played as a Discord Activity, with live progress from everyone playing.',
     stack: ['TypeScript', 'React', 'Fastify', 'Socket.IO', 'SQLite'],
     dates: 'May – Aug 2026',
     role: 'Solo project',
@@ -140,7 +140,7 @@ export const PROJECTS: Project[] = [
     caseStudy: '/projects/holodle/',
     repo: 'https://github.com/Ethikry/holodle',
     points: [
-      'All the grading happens on the server, so there’s no way to find the answer in the browser. Other players in the call see your colored squares but not your guesses.',
+      'All the grading happens on the server, so there’s no way to find the answer in the browser. Other players see your colored squares but not your guesses.',
       'The admin page measures how much each clue helps players narrow down the answer in real games, and a solver suggests the best next guess.',
       'Each day’s answer is picked so recent ones rarely repeat, and the day rolls over at midnight wherever you are.',
       'About 176 automated tests. It runs for free on a small cloud server.',

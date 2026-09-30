@@ -86,23 +86,40 @@ PAGES = {
     "news_feed": (900, (400, 1_800)),
 }
 
-LINES = [
-    ("Autumn Festival 2026", ["Acrylic Stand", "Tapestry", "Tote Bag", "Can Badge Set"]),
-    ("Starlight Tour", ["Tour Hoodie", "Light Stick", "Poster Set", "Photo Book"]),
-    ("3rd Anniversary", ["Voice Pack", "Plush", "Acrylic Keychain", "Signed Shikishi"]),
-    ("Winter Collection", ["Scarf", "Mug", "Desk Mat", "Hoodie"]),
-    ("Birthday 2026", ["Voice Pack", "Acrylic Stand", "Can Badge", "Wall Scroll"]),
-    ("Studio Live", ["Blu-ray", "T-Shirt", "Towel", "Pin Set"]),
-]
+# Each made-up store sells what its name suggests: Northwind is outdoor gear and
+# apparel, Harbor is home goods. Collections drop a few items at a time.
+LINES = {
+    "northwind": [
+        ("Fall Trail Collection", ["Fleece Pullover", "Rain Jacket", "Trail Cap", "Daypack"]),
+        ("Summit Series", ["Insulated Bottle", "Down Vest", "Wool Beanie", "Hiking Socks"]),
+        ("Coastline Capsule", ["Graphic Tee", "Crewneck Sweatshirt", "Canvas Tote", "Enamel Mug"]),
+        ("Winter Basics", ["Puffer Jacket", "Knit Scarf", "Thermal Gloves", "Flannel Shirt"]),
+    ],
+    "harbor": [
+        ("Harvest Table", ["Stoneware Plate Set", "Linen Napkins", "Serving Board", "Ceramic Pitcher"]),
+        ("Cozy Season", ["Throw Blanket", "Soy Candle", "Wool Pillow Cover", "Tea Set"]),
+        ("Studio Pottery", ["Handmade Mug", "Bud Vase", "Planter", "Trinket Dish"]),
+        ("Holiday 2026", ["Ornament Set", "Advent Calendar", "Table Runner", "Gift Box"]),
+    ],
+}
 TYPES = {
-    "Voice Pack": "Digital",
-    "Blu-ray": "Media",
-    "Photo Book": "Media",
-    "Tour Hoodie": "Apparel",
-    "Hoodie": "Apparel",
-    "T-Shirt": "Apparel",
-    "Scarf": "Apparel",
-    "Towel": "Apparel",
+    **dict.fromkeys(["Fleece Pullover", "Rain Jacket", "Down Vest", "Graphic Tee", "Crewneck Sweatshirt",
+                     "Puffer Jacket", "Flannel Shirt"], "Apparel"),
+    **dict.fromkeys(["Trail Cap", "Wool Beanie", "Hiking Socks", "Knit Scarf", "Thermal Gloves"], "Accessories"),
+    **dict.fromkeys(["Daypack", "Insulated Bottle", "Canvas Tote", "Enamel Mug"], "Gear"),
+    **dict.fromkeys(["Stoneware Plate Set", "Linen Napkins", "Serving Board", "Ceramic Pitcher", "Tea Set",
+                     "Table Runner"], "Kitchen & Dining"),
+    **dict.fromkeys(["Throw Blanket", "Soy Candle", "Wool Pillow Cover", "Ornament Set", "Advent Calendar",
+                     "Gift Box"], "Home Decor"),
+    **dict.fromkeys(["Handmade Mug", "Bud Vase", "Planter", "Trinket Dish"], "Pottery"),
+}
+PRICES = {
+    "Apparel": [48, 58, 68, 89, 128],
+    "Accessories": [18, 24, 28, 32],
+    "Gear": [22, 28, 36, 64],
+    "Kitchen & Dining": [24, 32, 45, 60],
+    "Home Decor": [18, 26, 38, 85],
+    "Pottery": [22, 28, 34, 42],
 }
 SIZES = ["S", "M", "L", "XL"]
 
@@ -135,21 +152,21 @@ def main() -> None:
     alerts: list[tuple] = []
     for r in release_times(rng):
         store = rng.choice(list(STORES))
-        line, items = rng.choice(LINES)
+        line, items = rng.choice(LINES[store])
         for item in rng.sample(items, rng.randint(2, 4)):
             pid += 1
             published = r + timedelta(seconds=rng.randint(0, 90))
-            kind = TYPES.get(item, "Goods")
-            handle = f"{line}-{item}-{pid}".lower().replace(" ", "-")
-            digital = kind == "Digital"
+            kind = TYPES[item]
+            handle = f"{line}-{item}-{pid}".lower().replace(" ", "-").replace("&", "and")
+            digital = False
             db.execute(
                 "INSERT INTO products VALUES (?,?,?,?,?,?,?,?,?)",
                 (pid, store, handle, f"{line} — {item}", kind, published.strftime("%Y-%m-%dT%H:%M:%SZ"),
                  1, int(rng.random() < 0.3), int(digital)),
             )
-            sizes = SIZES if kind == "Apparel" else ["Standard"] if not digital else ["Download"]
+            sizes = SIZES if kind == "Apparel" else ["One size"] if kind == "Accessories" else ["Standard"]
             limited = rng.random() < 0.5
-            price = round(rng.choice([12, 15, 18, 22, 28, 35, 48, 60]) + 0.0, 2)
+            price = round(rng.choice(PRICES[kind]) + 0.0, 2)
             variant_ids = []
             for size in sizes:
                 vid += 1
@@ -169,8 +186,8 @@ def main() -> None:
                 first_alert = seen if first_alert is None else min(first_alert, seen)
             alerts.append((pid, None, "new", first_alert + rng.randint(1, 4), rng.randint(3, 6)))
 
-            # Limited physical goods sell out, and some come back.
-            if limited and not digital:
+            # Limited items sell out, and some come back.
+            if limited:
                 for v in variant_ids:
                     if rng.random() < 0.75:
                         out_at = first_alert + rng.randint(600, 36 * 3600)
