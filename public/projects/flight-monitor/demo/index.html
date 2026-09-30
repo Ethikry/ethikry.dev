@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flight Search</title>
+  <link rel="stylesheet" href="/projects/flight-monitor/demo/style.css">
+<style>.demo-banner{font:13px/1.4 system-ui,sans-serif;background:#fff8e1;border-bottom:1px solid #f0d98c;padding:8px 16px;color:#5f4b00}</style>
+</head>
+<body>
+<div class="demo-banner"><b>Demo.</b> The real flight-monitor front end, running on sample data instead of its API. The prices are made up, and the watch history and alerts come from running them through the real alert rules.</div>
+
+<header>
+  <div class="header-inner">
+    <span class="logo">&#9992;</span>
+    <span class="logo-text">Flight Monitor</span>
+    <nav class="nav">
+      <a href="/projects/flight-monitor/demo/" class="nav-link active">Search</a>
+      <a href="/projects/flight-monitor/demo/watches/" class="nav-link">Watches</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="search-panel">
+    <form id="searchForm" novalidate>
+      <div class="search-row">
+
+        <div class="autocomplete-wrap">
+          <label for="fromInput">From</label>
+          <input type="text" id="fromInput" placeholder="City or airport" autocomplete="off">
+          <input type="hidden" id="fromCode">
+          <div id="fromDropdown" class="dropdown" role="listbox"></div>
+        </div>
+
+        <button type="button" id="swapBtn" class="swap-btn" title="Swap origin and destination">&#8644;</button>
+
+        <div class="autocomplete-wrap">
+          <label for="toInput">To</label>
+          <input type="text" id="toInput" placeholder="City or airport" autocomplete="off">
+          <input type="hidden" id="toCode">
+          <div id="toDropdown" class="dropdown" role="listbox"></div>
+        </div>
+
+        <div class="field-wrap">
+          <label for="dateInput">Depart</label>
+          <input type="date" id="dateInput">
+        </div>
+
+        <div class="field-wrap">
+          <label for="returnInput">Return <span class="field-hint">optional</span></label>
+          <input type="date" id="returnInput">
+        </div>
+
+        <div class="field-wrap">
+          <label for="cabinSelect">Cabin</label>
+          <select id="cabinSelect">
+            <option value="economy">Economy</option>
+            <option value="premium_economy">Premium Economy</option>
+            <option value="business">Business</option>
+            <option value="first">First</option>
+          </select>
+        </div>
+
+        <button type="submit" class="search-btn">Search</button>
+      </div>
+    </form>
+  </section>
+
+  <section id="loading" class="loading-section hidden">
+    <div class="spinner"></div>
+    <p>Searching flights&hellip;</p>
+  </section>
+
+  <section id="error" class="error-section hidden">
+    <p id="errorMsg"></p>
+  </section>
+
+  <section id="results" class="results-section hidden">
+    <div class="results-header">
+      <div class="tab-bar" role="tablist">
+        <button class="tab active" data-tab="cash" role="tab">
+          Cash Fares <span id="cashCount" class="count-badge"></span>
+        </button>
+        <button class="tab" data-tab="award" role="tab">
+          Award Fares <span id="awardCount" class="count-badge"></span>
+        </button>
+      </div>
+      <div id="routeInfo" class="route-info"></div>
+    </div>
+
+    <div id="cashResults" class="tab-content" role="tabpanel">
+      <div id="cashList" class="flight-list"></div>
+      <div id="cashPagination" class="pagination"></div>
+    </div>
+
+    <div id="awardResults" class="tab-content hidden" role="tabpanel">
+      <div id="awardList" class="flight-list"></div>
+      <div id="awardPagination" class="pagination"></div>
+    </div>
+  </section>
+</main>
+
+<script src="/projects/flight-monitor/demo/demo-shim.js"></script>
+<script src="/projects/flight-monitor/demo/common.js"></script>
+<script src="/projects/flight-monitor/demo/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+---
+import Site from './Site.astro'
+import { bySlug } from '../data/projects'
+
+interface Props {
+  slug: string
+}
+const { slug } = Astro.props
+const p = bySlug(slug)
+---
+
+<Site title={p.title} description={p.summary} section="work">
+  <section class="cs-hero">
+    <div class="wrap">
+      <a class="back" href="/projects/">← All projects</a>
+      <div class="cs-head">
+        <div>
+          <h1>{p.title}</h1>
+          <p class="lead">{p.summary}</p>
+          <div class="btn-row">
+            <a class="btn primary" href="#demo">Try the demo</a>
+            {p.repo && <a class="btn" href={p.repo}>View the code</a>}
+          </div>
+        </div>
+        <aside class="facts">
+          <div><span class="meta-label">When</span>{p.dates}</div>
+          <div><span class="meta-label">Role</span>{p.role}</div>
+          <div>
+            <span class="meta-label">Built with</span>
+            <ul class="chips">{p.stack.map((s) => <li>{s}</li>)}</ul>
+          </div>
+          {!p.repo && <div><span class="meta-label">Code</span>{p.privateNote}</div>}
+        </aside>
+      </div>
+      <slot name="stats" />
+    </div>
+  </section>
+  <div class="wrap">
+    <article class="cs-body">
+      <slot />
+    </article>
+    <section class="demo-section">
+      <slot name="demo" />
+    </section>
+  </div>
+</Site>

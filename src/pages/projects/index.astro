@@ -1,0 +1,69 @@
+---
+import Site from '../../layouts/Site.astro'
+import { PROJECTS } from '../../data/projects'
+---
+
+<Site
+  title="Work"
+  description="Six projects by Ethan Gayton: analytics dashboards, monitoring bots and a daily game, each with a demo."
+  section="work"
+>
+  <section class="hero" style="padding-bottom:32px">
+    <div class="wrap">
+      <span class="eyebrow">Work</span>
+      <h1>Projects</h1>
+      <p class="lead">
+        Each of these has a demo you can click around in. They use made-up or anonymized data, so nothing private is exposed. If the code is private, I’m happy to walk you through it.
+      </p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    {
+      PROJECTS.map((p) => (
+        <section class="project-row" id={p.slug}>
+          <div>
+            <h2>
+              <a href={p.caseStudy ?? p.demo}>{p.title}</a>
+            </h2>
+            <span class="note">
+              {p.dates} · {p.role}
+            </span>
+            <p class="summary">{p.summary}</p>
+            <ul>
+              {p.points.map((pt) => (
+                <li>{pt}</li>
+              ))}
+            </ul>
+          </div>
+          <div class="meta">
+            <div>
+              <span class="meta-label">Built with</span>
+              <ul class="chips">
+                {p.stack.map((s) => (
+                  <li>{s}</li>
+                ))}
+              </ul>
+            </div>
+            <div class="btn-row">
+              <a class="btn primary small" href={p.demo}>
+                {p.slug === 'song-rank' ? 'Open the site' : 'Try the demo'}
+              </a>
+              {p.caseStudy && (
+                <a class="btn small" href={p.caseStudy}>
+                  Read more
+                </a>
+              )}
+              {p.repo && (
+                <a class="btn small" href={p.repo}>
+                  Code
+                </a>
+              )}
+            </div>
+            {!p.repo && <span class="note">{p.privateNote}</span>}
+          </div>
+        </section>
+      ))
+    }
+  </div>
+</Site>

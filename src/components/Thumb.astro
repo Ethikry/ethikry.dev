@@ -1,0 +1,150 @@
+---
+// A small abstract picture per project for the cards: the shape of what each
+// one produces, drawn in the site's own colours so it follows the theme.
+interface Props {
+  slug: string
+}
+const { slug } = Astro.props
+
+// Deterministic pseudo-random numbers so the art is stable between builds.
+let s = [...slug].reduce((a, c) => a * 31 + c.charCodeAt(0), 7) >>> 0
+const r = () => ((s = (s * 1103515245 + 12345) >>> 0) % 1000) / 1000
+---
+
+<div class="thumb" aria-hidden="true">
+  <svg viewBox="0 0 400 132" preserveAspectRatio="xMidYMid slice">
+    {
+      slug === 'song-rank' && (
+        <g>
+          {Array.from({ length: 16 }, (_, i) => {
+            const h = 20 + Math.round(r() * 80)
+            return <rect x={30 + i * 22} y={118 - h} width="14" height={h} rx="3" class={i === 9 ? 't-a' : 't-m'} />
+          })}
+          <line x1="20" y1="118" x2="380" y2="118" class="t-line" />
+        </g>
+      )
+    }
+    {
+      slug === 'product-monitor' && (
+        <g>
+          <polyline
+            class="t-stroke"
+            points={Array.from({ length: 41 }, (_, i) => {
+              const spike = i === 14 || i === 29 ? -46 : i === 15 || i === 30 ? 30 : 0
+              return `${i * 10},${84 + spike + (r() - 0.5) * 8}`
+            }).join(' ')}
+          />
+          <circle cx="140" cy="38" r="6" class="t-a" />
+          <circle cx="290" cy="38" r="6" class="t-a" />
+          <circle cx="140" cy="38" r="14" class="t-ring" />
+          <circle cx="290" cy="38" r="14" class="t-ring" />
+        </g>
+      )
+    }
+    {
+      slug === 'study-bot' && (
+        <g>
+          {Array.from({ length: 5 * 18 }, (_, i) => {
+            const v = r()
+            const cls = v < 0.12 ? 't-bg' : v < 0.4 ? 't-s' : v < 0.75 ? 't-m' : 't-a'
+            return <rect x={22 + (i % 18) * 20.5} y={16 + Math.floor(i / 18) * 21} width="16" height="16" rx="4" class={cls} />
+          })}
+        </g>
+      )
+    }
+    {
+      slug === 'listening-stats' && (
+        <g>
+          <path
+            class="t-area"
+            d={
+              'M0,132 ' +
+              Array.from({ length: 41 }, (_, i) => `L${i * 10},${100 - 38 * Math.sin(i / 5) ** 2 - r() * 22}`).join(' ') +
+              ' L400,132 Z'
+            }
+          />
+          {Array.from({ length: 50 }, (_, i) => {
+            const h = 6 + r() * 26
+            return <rect x={i * 8 + 2} y={30 - h / 2} width="3" height={h} rx="1.5" class="t-m" />
+          })}
+        </g>
+      )
+    }
+    {
+      slug === 'flight-monitor' && (
+        <g>
+          <path d="M40,104 Q200,-20 360,92" class="t-dash" />
+          <circle cx="40" cy="104" r="7" class="t-m" />
+          <circle cx="360" cy="92" r="7" class="t-a" />
+          <g transform="translate(212,34) rotate(8)">
+            <path d="M-14,0 L14,0 M-2,-10 L6,0 L-2,10 M-12,-5 L-8,0 L-12,5" class="t-plane" />
+          </g>
+        </g>
+      )
+    }
+    {
+      slug === 'holodle' && (
+        <g>
+          {Array.from({ length: 4 * 6 }, (_, i) => {
+            const row = Math.floor(i / 6)
+            const v = r()
+            const cls = row === 3 ? 't-a' : v < 0.25 ? 't-a' : v < 0.5 ? 't-y' : 't-m'
+            return <rect x={92 + (i % 6) * 37} y={10 + row * 29} width="32" height="24" rx="7" class={cls} />
+          })}
+        </g>
+      )
+    }
+  </svg>
+</div>
+
+<style>
+  .t-a {
+    fill: var(--accent);
+  }
+  .t-m {
+    fill: var(--border-strong);
+  }
+  .t-s {
+    fill: color-mix(in oklab, var(--accent) 35%, var(--surface-2));
+  }
+  .t-bg {
+    fill: var(--border);
+  }
+  .t-y {
+    fill: color-mix(in oklab, var(--warn) 55%, var(--surface-2));
+  }
+  .t-line {
+    stroke: var(--border-strong);
+    stroke-width: 2;
+  }
+  .t-stroke {
+    fill: none;
+    stroke: var(--accent);
+    stroke-width: 2.5;
+    stroke-linejoin: round;
+  }
+  .t-ring {
+    fill: none;
+    stroke: var(--accent);
+    stroke-width: 1.5;
+    opacity: 0.35;
+  }
+  .t-area {
+    fill: color-mix(in oklab, var(--accent) 22%, transparent);
+    stroke: var(--accent);
+    stroke-width: 2;
+  }
+  .t-dash {
+    fill: none;
+    stroke: var(--border-strong);
+    stroke-width: 2.5;
+    stroke-dasharray: 6 7;
+  }
+  .t-plane {
+    fill: none;
+    stroke: var(--accent);
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+</style>

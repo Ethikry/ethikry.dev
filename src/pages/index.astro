@@ -1,0 +1,105 @@
+---
+import Site from '../layouts/Site.astro'
+import ProjectCard from '../components/ProjectCard.astro'
+import { PROJECTS } from '../data/projects'
+---
+
+<Site
+  title="Ethan Gayton"
+  description="Ethan Gayton builds data-focused tools in Python, TypeScript and SQL. Six projects, each with a demo you can try."
+  section="home"
+>
+  <section class="hero hero-home">
+    <div class="wrap hero-inner">
+      <h1 class="hello">Hi, I’m Ethan<span class="accent-dot">.</span></h1>
+      <p class="hero-sub">I build dashboards, bots and small apps <span class="soft">that make data easier to use.</span></p>
+      <p class="lead">
+        Most of my projects started as a spreadsheet, a chore, or a question I couldn’t find an answer to. I like digging into the data until I understand it, then building something that makes it easy for other people to use.
+        Everything below has a demo you can try.
+      </p>
+      <div class="btn-row">
+        <a class="btn primary" href="#work">See my work</a>
+        <a class="btn" href="#contact">Get in touch</a>
+      </div>
+      <div class="hero-meta">
+        <span><i class="dot"></i>Open to analyst and developer roles</span>
+        <span>Salt Lake City, Utah</span>
+        <span>Python · TypeScript · SQL</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="work">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <h2>Selected work</h2>
+          <p>Things I’ve built for myself, my friends, and a few online communities.</p>
+        </div>
+        <a class="btn small" href="/projects/">All projects →</a>
+      </div>
+      <div class="card-grid">{PROJECTS.map((p) => <ProjectCard project={p} />)}</div>
+    </div>
+  </section>
+
+  <section class="section" id="about">
+    <div class="wrap about">
+      <div>
+        <h2 style="margin-bottom:18px">About me</h2>
+        <p>
+          I started programming in 2023 through the University of Utah’s full-stack coding program and have kept building projects since. I finished my Associate of Science at Utah Valley University in 2025, and I’m still
+          taking data analytics courses.
+        </p>
+        <p>
+          The part I enjoy most is the planning before any code gets written. I like talking with the people who’ll use a tool, figuring out what they need from it, and writing that down clearly. My projects tend to
+          end up with a lot of documentation and a lot of tests, because I want to be able to trust the numbers.
+        </p>
+        <p>
+          Outside of that, I’m learning Japanese (which explains a couple of these projects), I listen to a lot of
+          music, and I’m usually planning a trip somewhere.
+        </p>
+      </div>
+      <div class="skill-list">
+        <div>
+          <h3>Data</h3>
+          <ul class="chips">
+            <li>SQL</li><li>SQLite</li><li>MySQL</li><li>Database design</li><li>Data validation</li><li>Statistics</li><li>Excel</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Building</h3>
+          <ul class="chips">
+            <li>Python</li><li>TypeScript</li><li>JavaScript</li><li>React</li><li>Node.js</li><li>FastAPI</li><li>Git</li><li>Automated testing</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Working with people</h3>
+          <ul class="chips">
+            <li>Requirements</li><li>Documentation</li><li>Training guides</li><li>Clear writing</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Tools</h3>
+          <ul class="chips">
+            <li>Linux</li><li>Docker</li><li>Cloudflare</li><li>AWS S3</li><li>Microsoft Office</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="contact">
+    <div class="wrap">
+      <div class="contact">
+        <h2>Let’s talk</h2>
+        <p>
+          If you’re hiring or have a question about one of these projects, email is the best way to reach me.
+        </p>
+        <div class="btn-row">
+          <a class="btn primary" href="mailto:ethikry@proton.me">ethikry@proton.me</a>
+          <a class="btn" href="https://github.com/Ethikry">GitHub</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Site>

@@ -1,0 +1,26 @@
+{
+  "name": "ethikry-dev",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node scripts/check-leaks.mjs",
+    "preview": "wrangler dev",
+    "deploy": "REQUIRE_PRIVATE_TERMS=1 npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "@astrojs/react": "^7.0.0",
+    "astro": "^7.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "sql.js": "^1.14.2"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/sql.js": "^1.4.11",
+    "typescript": "^7.0.2",
+    "wrangler": "4"
+  }
+}

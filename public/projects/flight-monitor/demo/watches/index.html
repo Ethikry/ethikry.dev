@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Watches — Flight Monitor</title>
+  <link rel="stylesheet" href="/projects/flight-monitor/demo/style.css">
+<style>.demo-banner{font:13px/1.4 system-ui,sans-serif;background:#fff8e1;border-bottom:1px solid #f0d98c;padding:8px 16px;color:#5f4b00}</style>
+</head>
+<body>
+<div class="demo-banner"><b>Demo.</b> The real flight-monitor front end, running on sample data instead of its API. The prices are made up, and the watch history and alerts come from running them through the real alert rules.</div>
+
+<header>
+  <div class="header-inner">
+    <span class="logo">&#9992;</span>
+    <span class="logo-text">Flight Monitor</span>
+    <nav class="nav">
+      <a href="/projects/flight-monitor/demo/" class="nav-link">Search</a>
+      <a href="/projects/flight-monitor/demo/watches/" class="nav-link active">Watches</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="search-panel">
+    <form id="watchForm" novalidate>
+      <div class="search-row">
+        <div class="autocomplete-wrap">
+          <label class="field-label" for="fromInput">From</label>
+          <input type="text" id="fromInput" placeholder="City or airport" autocomplete="off">
+          <input type="hidden" id="fromCode">
+          <div id="fromDropdown" class="dropdown" role="listbox"></div>
+        </div>
+
+        <button type="button" id="swapBtn" class="swap-btn" title="Swap origin and destination">&#8644;</button>
+
+        <div class="autocomplete-wrap">
+          <label class="field-label" for="toInput">To</label>
+          <input type="text" id="toInput" placeholder="City or airport" autocomplete="off">
+          <input type="hidden" id="toCode">
+          <div id="toDropdown" class="dropdown" role="listbox"></div>
+        </div>
+
+        <div class="field-wrap">
+          <label class="field-label" for="dateFrom">Earliest date</label>
+          <input type="date" id="dateFrom">
+        </div>
+
+        <div class="field-wrap">
+          <label class="field-label" for="dateTo">Latest date</label>
+          <input type="date" id="dateTo">
+        </div>
+
+        <div class="field-wrap">
+          <label class="field-label" for="tripLength">Trip length</label>
+          <input type="number" id="tripLength" min="1" step="1" placeholder="one-way">
+        </div>
+
+        <div class="field-wrap">
+          <label class="field-label" for="cabinSelect">Cabin</label>
+          <select id="cabinSelect">
+            <option value="economy">Economy</option>
+            <option value="premium_economy">Premium Economy</option>
+            <option value="business">Business</option>
+            <option value="first">First</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="watch-options">
+        <div class="option-group">
+          <span class="field-label">Mileage programs</span>
+          <div class="program-controls">
+            <button type="button" class="chip-btn" data-select="all">All</button>
+            <button type="button" class="chip-btn" data-select="none">None</button>
+            <button type="button" class="chip-btn" data-select="oneworld">oneworld</button>
+            <button type="button" class="chip-btn" data-select="star">Star Alliance</button>
+            <button type="button" class="chip-btn" data-select="skyteam">SkyTeam</button>
+          </div>
+          <div id="programGrid" class="program-grid"></div>
+          <p class="hint">None selected searches every program.</p>
+        </div>
+
+        <div class="option-group option-group-narrow">
+          <label class="field-label" for="targetPoints">Target (points)</label>
+          <input type="number" id="targetPoints" min="0" step="1000" placeholder="optional">
+
+          <label class="field-label" for="targetCash">Target (cash USD)</label>
+          <input type="number" id="targetCash" min="0" step="10" placeholder="optional">
+
+          <label class="field-label" for="pollInterval">Check every (min)</label>
+          <input type="number" id="pollInterval" min="1" step="15" placeholder="60">
+
+          <label class="checkbox-row">
+            <input type="checkbox" id="includeCash" checked>
+            <span>Track cash fares <span class="hint-inline">(slower)</span></span>
+          </label>
+
+          <label class="field-label" for="labelInput">Label</label>
+          <input type="text" id="labelInput" maxlength="100" placeholder="optional">
+        </div>
+      </div>
+
+      <div class="submit-row">
+        <button type="submit" class="search-btn">Create watch</button>
+      </div>
+    </form>
+  </section>
+
+  <section id="formError" class="error-section hidden">
+    <p id="formErrorText"></p>
+  </section>
+
+  <section class="results-section">
+    <div class="results-header">
+      <h2 class="section-title">Active watches</h2>
+    </div>
+    <div id="watchList" class="watch-list"></div>
+    <p id="emptyState" class="empty-state hidden">No watches yet. Create one above.</p>
+  </section>
+</main>
+
+<script src="/projects/flight-monitor/demo/demo-shim.js"></script>
+<script src="/projects/flight-monitor/demo/common.js"></script>
+<script src="/projects/flight-monitor/demo/watches.js"></script>
+</body>
+</html>

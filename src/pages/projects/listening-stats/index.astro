@@ -1,0 +1,64 @@
+---
+import CaseStudy from '../../../layouts/CaseStudy.astro'
+---
+
+<CaseStudy slug="listening-stats">
+  <div class="stats" slot="stats">
+    <div class="stat"><div class="value">20 min</div><div class="label">between syncs</div></div>
+    <div class="stat"><div class="value">0</div><div class="label">duplicate plays after re-imports</div></div>
+    <div class="stat"><div class="value">11</div><div class="label">dashboard panels</div></div>
+    <div class="stat"><div class="value">1 file</div><div class="label">self-contained report, no server needed</div></div>
+  </div>
+
+  <h2>Why I built it</h2>
+  <p>
+    YouTube Music doesn’t show you any listening stats. The usual play-tracking tools miss plays, and they can’t tell
+    a song I finished from one I skipped five seconds in. I wanted a complete history that I own, plus a dashboard that shows what I listen to, when I listen, and which old favorites I’ve stopped playing.
+  </p>
+
+  <h2>How it works</h2>
+  <p>
+    I import my full history from Google Takeout once. After that, a scheduled job checks my recent history every
+    20 minutes and figures out what’s new. The hard part is that YouTube Music removes duplicates from
+    that list, so a song I replay jumps to the top and disappears from its old spot. The sync has to line the new
+    list up with the last one while allowing for those moves.
+  </p>
+  <p>
+    Every play is stored once, keyed on the track and the time. Synced plays only have estimated times, so when a
+    newer Takeout export comes in, its exact rows replace the estimates for that period. Importing again never
+    double counts.
+  </p>
+
+  <h2>Deciding what counts</h2>
+  <p>
+    Before I could measure listening time, I had to decide what counts as a play and what counts as a skip. I wrote those rules down first:
+  </p>
+  <ul>
+    <li>A song counts as <strong>skipped</strong> if the next one starts before it’s halfway through (and within four minutes).</li>
+    <li><strong>Listening time</strong> is the song length or the gap to the next song, whichever is shorter.</li>
+    <li>A <strong>session</strong> ends after 30 minutes of silence.</li>
+  </ul>
+  <p>Every chart on the dashboard follows those rules.</p>
+
+  <h2>Making sure it’s right</h2>
+  <p>
+    Each awkward case has its own test: nothing new, new songs on top, a replayed song jumping up, the whole list
+    changing, a first run, and a Takeout import replacing synced plays. The stats tests use tiny hand-built
+    histories where I already know how many skips and sessions there should be.
+  </p>
+
+  <Fragment slot="demo">
+    <h2 id="demo">Try it</h2>
+    <p>
+      About 13,000 plays over 18 months by made-up artists, run through the project’s real stats code and
+      dashboard. Filter by year, or choose whether skips count.
+    </p>
+    <div class="demo-frame">
+      <div class="demo-bar">
+        <span><span class="dots"><i></i><i></i><i></i></span>Listening dashboard <span class="synthetic">sample data</span></span>
+        <a href="/projects/listening-stats/demo/">Open full screen ↗</a>
+      </div>
+      <iframe src="/projects/listening-stats/demo/" title="Listening dashboard demo" loading="lazy" data-themed style="height: 1100px"></iframe>
+    </div>
+  </Fragment>
+</CaseStudy>

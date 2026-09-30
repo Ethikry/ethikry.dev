@@ -1,0 +1,65 @@
+---
+import CaseStudy from '../../../layouts/CaseStudy.astro'
+import WkbotDemo from '../../../demos/wkbot/WkbotDemo'
+---
+
+<CaseStudy slug="study-bot">
+  <div class="stats" slot="stats">
+    <div class="stat"><div class="value">10 mo</div><div class="label">in daily use</div></div>
+    <div class="stat"><div class="value">26+</div><div class="label">pull requests merged</div></div>
+    <div class="stat"><div class="value">35</div><div class="label">database tables</div></div>
+    <div class="stat"><div class="value">2</div><div class="label">developers</div></div>
+  </div>
+
+  <h2>Why I built it</h2>
+  <p>
+    I study Japanese with an online group, and most of us use WaniKani for kanji. WaniKani shows you your own
+    progress but nobody else’s. We wanted to see who had studied that day and who was on a streak, and to get a
+    reminder before the day ran out.
+  </p>
+
+  <h2>What it does</h2>
+  <ul>
+    <li>Posts a recap every night at midnight in the group’s time zone, and a leaderboard once a week.</li>
+    <li>Shows anyone their stats, a 30-day activity heatmap, or their streak when they ask for it.</li>
+    <li>
+      Reminds you before your day ends if you haven’t done your reviews. An LLM writes the reminder in Japanese at
+      your level, using only kanji you’ve already learned, so reading it is a little extra practice. If the API
+      is slow or down, the bot sends a plain message instead.
+    </li>
+  </ul>
+
+  <h2>The tricky parts</h2>
+  <p>
+    Streaks took the most work. WaniKani has its own rules, including “offerings” that cover a missed day and
+    take a week to recharge. The bot follows the same rules, so its streaks agree with the site even for days
+    when the bot was offline.
+  </p>
+  <p>
+    It only asks the WaniKani API for what’s changed since the last sync, and waits when the API asks it to.
+    It stores API keys encrypted and uses each person’s own time zone. Database changes go through numbered migration scripts.
+  </p>
+
+  <h2>Working as a pair</h2>
+  <p>
+    This is the one project I built with someone else. Our changes went through pull requests (26 merged so
+    far). We also wrote a few admin scripts so either of us could look up a member’s data, recalculate streaks,
+    or preview the next recap before it went out.
+  </p>
+
+  <h2>What I learned</h2>
+  <p>
+    If the bot’s numbers don’t match what people see on WaniKani, they stop trusting it, so most of the streak code is there to handle edge cases like time zones, missed days, and downtime.
+  </p>
+
+  <Fragment slot="demo">
+    <h2 id="demo">Try it</h2>
+    <p>
+      A made-up study group of five people. The layouts match the bot’s real posts, and the heatmap and
+      progress bar come from the bot’s own code. Switch between commands, or view the stats as someone else.
+    </p>
+    <div class="demo-frame">
+      <WkbotDemo client:visible />
+    </div>
+  </Fragment>
+</CaseStudy>

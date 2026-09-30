@@ -1,0 +1,150 @@
+.mon {
+  padding: 18px;
+}
+.mon-bar,
+.mon-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+  margin-bottom: 12px;
+}
+.mon-loading {
+  padding: 40px 0;
+  text-align: center;
+}
+.mon-err {
+  color: var(--warn);
+  font-family: var(--mono);
+  font-size: 13px;
+  white-space: pre-wrap;
+}
+.mon-presets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+.mon-presets .btn {
+  padding: 7px 12px;
+  font-size: 13px;
+}
+.mon-presets .btn.on {
+  background: var(--text);
+  border-color: var(--text);
+  color: var(--bg);
+}
+.mon-question {
+  background: var(--accent-soft);
+  border-radius: var(--radius-sm);
+  padding: 12px 16px;
+  margin-bottom: 14px;
+}
+.mon-question p {
+  margin: 4px 0 0;
+  color: var(--text-2);
+  font-size: 15px;
+}
+.mon-editor textarea {
+  display: block;
+  width: 100%;
+  font-family: var(--mono);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+  resize: vertical;
+  tab-size: 2;
+}
+.mon-editor textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+.mon-run {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+  margin-top: 8px;
+}
+.mon-table-wrap {
+  overflow-x: auto;
+  max-height: 420px;
+  overflow-y: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+}
+.mon-table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 13.5px;
+  font-variant-numeric: tabular-nums;
+}
+.mon-table th {
+  position: sticky;
+  top: 0;
+  background: var(--surface-2);
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-2);
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  padding: 6px 10px;
+  white-space: nowrap;
+}
+.mon-table td {
+  border-bottom: 1px solid var(--border);
+  padding: 5px 10px;
+  vertical-align: top;
+}
+.mon-table td.num {
+  text-align: right;
+  font-family: var(--font);
+}
+.mon-table td.pre {
+  white-space: pre;
+  font-family: var(--mono);
+  font-size: 12px;
+}
+.mon-chart {
+  margin: 6px 0 14px;
+}
+.mon-bar-row {
+  display: grid;
+  grid-template-columns: minmax(80px, 170px) minmax(0, 1fr) 70px;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  margin: 3px 0;
+}
+.mon-bar-row .lbl {
+  font-family: var(--font);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--text-2);
+}
+.mon-bar-row .track {
+  height: 10px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  overflow: hidden;
+}
+.mon-bar-row .fill {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: var(--accent);
+}
+.mon-bar-row .val {
+  font-family: var(--font);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}

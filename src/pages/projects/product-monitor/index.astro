@@ -1,0 +1,72 @@
+---
+import CaseStudy from '../../../layouts/CaseStudy.astro'
+import MonitorDemo from '../../../demos/monitor/MonitorDemo'
+---
+
+<CaseStudy slug="product-monitor">
+  <div class="stats" slot="stats">
+    <div class="stat"><div class="value">~20s</div><div class="label">from release to alert</div></div>
+    <div class="stat"><div class="value">~20</div><div class="label">tables in its SQLite database</div></div>
+    <div class="stat"><div class="value">~970</div><div class="label">automated tests</div></div>
+    <div class="stat"><div class="value">24/7</div><div class="label">running since June 2025</div></div>
+  </div>
+
+  <h2>Why I built it</h2>
+  <p>
+    A few Discord communities I belong to collect merch from two online stores. Popular items sell out quickly,
+    and people kept missing releases because they were at work or asleep when something went up. I wanted
+    everyone to hear about new items and restocks as soon as they happened.
+  </p>
+
+  <h2>What it does</h2>
+  <ul>
+    <li>Posts new products, restocks and sell-outs to whichever channels each server picks.</li>
+    <li>Each alert shows the price, the sizes or versions available, and a link to the product.</li>
+    <li>
+      Members can react to an alert to get pinged the next time that product line has news, so nobody has to
+      watch the channel all day.
+    </li>
+  </ul>
+
+  <h2>How it’s built</h2>
+  <p>
+    The bot is written in Python. At first it kept everything in JSON files, which got harder to manage as more
+    servers joined. I moved it to a SQLite database with about 20 related tables covering products, variants,
+    server settings, subscriptions, and every alert sent. Before switching over, the migration compared record
+    counts table by table to make sure nothing was lost.
+  </p>
+  <p>
+    It runs on a small Linux server. A health check restarts the bot if it ever stops responding, and the
+    database is backed up to AWS S3 during the day. Once a month an automated job restores the newest backup
+    and checks that it opens cleanly. About 970 automated tests cover the database, the alert formatting, and
+    each server’s settings.
+  </p>
+
+  <h2>Using the data</h2>
+  <p>
+    The bot records when each product first shows up on each page of the store. After a couple of weeks I had
+    enough history to ask which page lists new items first. I expected the main product listing to win. The
+    sitemap did, usually within seconds, and some pages I’d have guessed were faster took close to half an
+    hour. I reworked the bot to check the sitemap first, and alerts now go out in about 20 seconds.
+  </p>
+  <p>
+    The same data answers the questions the communities ask me, like how quickly limited items sell out and
+    how long restocks usually take. You can run those queries yourself below.
+  </p>
+
+  <h2>What I learned</h2>
+  <p>
+    If I’d gone with my first guess, I would have spent a lot of effort on the wrong page. Now, when a design depends on an assumption like that, I try to test it with data first.
+  </p>
+
+  <Fragment slot="demo">
+    <h2 id="demo">Try it</h2>
+    <p>
+      The demo uses two weeks of made-up data from two made-up stores and a trimmed-down copy of the bot’s database, all running in your browser. The first tab shows alerts the way they look in Discord. The second lets you query
+      the data, and you can edit the SQL or write your own.
+    </p>
+    <div class="demo-frame">
+      <MonitorDemo client:visible />
+    </div>
+  </Fragment>
+</CaseStudy>

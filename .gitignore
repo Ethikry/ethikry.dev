@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.astro/
+.wrangler/
+.DS_Store
+*.docx
+__pycache__/
+.env*
+
+# Terms the leak check looks for; listing them publicly would publish them.
+scripts/leak-terms.private.json
+.claude/

@@ -1,0 +1,22 @@
+---
+import type { Project } from '../data/projects'
+import Thumb from './Thumb.astro'
+interface Props {
+  project: Project
+}
+const { project: p } = Astro.props
+const href = p.caseStudy ?? p.demo
+---
+
+<article class="card project-card">
+  <Thumb slug={p.slug} />
+  <div class="body">
+    <h3><a href={href}>{p.title}</a></h3>
+    <p class="outcome">{p.blurb}</p>
+    <ul class="chips">{p.stack.slice(0, 4).map((s) => <li>{s}</li>)}</ul>
+    <div class="foot">
+      <span>{p.dates}</span>
+      <span class="go">{p.caseStudy ? 'Details and demo →' : 'Open the site →'}</span>
+    </div>
+  </div>
+</article>

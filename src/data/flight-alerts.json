@@ -1,0 +1,7013 @@
+[
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$660~~ → **$647**  ($13 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-19",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$659~~ → **$655**  ($4 off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-20",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$1,034~~ → **$930**  ($104 off, 10%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$896~~ → **$884**  ($12 off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~30,500 pts~~ → **30,000 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "60.39 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$971~~ → **$970**  ($1 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~77,500 pts~~ → **76,000 pts**  (1,500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "23.65 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~77,000 pts~~ → **73,000 pts**  (4,000 pts off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "american",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "123.91 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,652~~ → **$4,226**  ($426 off, 9%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~79,000 pts~~ → **75,500 pts**  (3,500 pts off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "73.96 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "5",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-14T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,371~~ → **$4,108**  ($263 off, 6%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$674~~ → **$653**  ($21 off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-18",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$647~~ → **$639**  ($8 off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-19",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~30,000 pts~~ → **29,500 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "146.36 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "5",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~30,000 pts~~ → **29,500 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "32.71 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$970~~ → **$935**  ($35 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~76,000 pts~~ → **73,500 pts**  (2,500 pts off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "71.30 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,108~~ → **$3,986**  ($122 off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T06:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~75,000 pts~~ → **70,000 pts**  (5,000 pts off, 7%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "american",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "179.05 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~29,500 pts~~ → **28,500 pts**  (1,000 pts off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "126.11 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$884~~ → **$874**  ($10 off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$1,034~~ → **$999**  ($35 off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T18:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~75,000 pts~~ → **66,500 pts**  (8,500 pts off, 11%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "american",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "130.91 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,226~~ → **$4,130**  ($96 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-15T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,102~~ → **$4,028**  ($74 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T06:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$777~~ → **$744**  ($33 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-20",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~29,500 pts~~ → **29,000 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "176.71 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "5",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T06:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~75,500 pts~~ → **66,500 pts**  (9,000 pts off, 12%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "american",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "55.50 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "1",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,130~~ → **$3,952**  ($178 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T06:00:00+00:00",
+  "suppressed": 3,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$653~~ → **$650**  ($3 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-18",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "suppressed": 2,
+  "watch": 1
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~29,000 pts~~ → **28,500 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "59.54 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "4",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~30,000 pts~~ → **29,500 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "132.66 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$909~~ → **$890**  ($19 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$999~~ → **$969**  ($30 off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$3,965~~ → **$3,874**  ($91 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$3,952~~ → **$3,796**  ($156 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~75,500 pts~~ → **75,000 pts**  (500 pts off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "26.77 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~72,000 pts~~ → **70,000 pts**  (2,000 pts off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "american",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "117.62 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "4",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-16T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,151~~ → **$4,133**  ($18 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$650~~ → **$598**  ($52 off, 8%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-18",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$639~~ → **$613**  ($26 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-19",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T06:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$701~~ → **$685**  ($16 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-20",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~29,000 pts~~ → **28,500 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "5.67 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T06:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → LHR",
+   "description": "Spring in London",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~28,500 pts~~ → **23,000 pts**  (5,500 pts off, 19%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "177.20 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "5",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T06:00:00+00:00",
+  "suppressed": 3,
+  "watch": 2
+ },
+ {
+  "at": "2026-09-17T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$3,874~~ → **$3,802**  ($72 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~75,000 pts~~ → **72,000 pts**  (3,000 pts off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "78.25 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "6",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T06:00:00+00:00",
+  "suppressed": 1,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-17T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$613~~ → **$610**  ($3 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-19",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~28,500 pts~~ → **28,000 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "127.04 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "4",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$874~~ → **$835**  ($39 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$992~~ → **$990**  ($2 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~72,000 pts~~ → **70,500 pts**  (1,500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "102.08 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "1",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~74,500 pts~~ → **73,500 pts**  (1,000 pts off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "14.09 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,151~~ → **$4,144**  ($7 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-17T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,268~~ → **$4,182**  ($86 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-18T06:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$727~~ → **$692**  ($35 off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-20",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-18T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~28,000 pts~~ → **27,000 pts**  (1,000 pts off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "130.04 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-18T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$935~~ → **$902**  ($33 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-18T06:00:00+00:00",
+  "suppressed": 1,
+  "watch": 2
+ },
+ {
+  "at": "2026-09-18T06:00:00+00:00",
+  "suppressed": 3,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-18T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$610~~ → **$564**  ($46 off, 8%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-19",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-18T18:00:00+00:00",
+  "suppressed": 1,
+  "watch": 1
+ },
+ {
+  "at": "2026-09-18T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$1,021~~ → **$996**  ($25 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-18T18:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~81,000 pts~~ → **68,000 pts**  (13,000 pts off, 16%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "american",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "78.48 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-18T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~76,500 pts~~ → **75,500 pts**  (1,000 pts off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "103.35 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "6",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-18T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~73,500 pts~~ → **72,500 pts**  (1,000 pts off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "89.15 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-18T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$3,989~~ → **$3,877**  ($112 off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-18T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,228~~ → **$4,084**  ($144 off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-19T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$598~~ → **$596**  ($2 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-18",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-19T06:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$564~~ → **$515**  ($49 off, 9%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-19",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-19T06:00:00+00:00",
+  "suppressed": 2,
+  "watch": 2
+ },
+ {
+  "at": "2026-09-19T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$3,796~~ → **$3,759**  ($37 off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-19T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~68,000 pts~~ → **67,500 pts**  (500 pts off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "american",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "172.56 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "4",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-19T06:00:00+00:00",
+  "suppressed": 1,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-19T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$764~~ → **$713**  ($51 off, 7%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-20",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-19T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$835~~ → **$816**  ($19 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-19T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~28,000 pts~~ → **26,500 pts**  (1,500 pts off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "42.59 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-19T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~75,500 pts~~ → **74,000 pts**  (1,500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "american",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "68.70 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "5",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-19T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,166~~ → **$3,864**  ($302 off, 7%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-20T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$596~~ → **$554**  ($42 off, 7%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-18",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-20T06:00:00+00:00",
+  "suppressed": 1,
+  "watch": 1
+ },
+ {
+  "at": "2026-09-20T06:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → LHR",
+   "description": "Spring in London",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~28,000 pts~~ → **22,500 pts**  (5,500 pts off, 20%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "20.53 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "6",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-20T06:00:00+00:00",
+  "suppressed": 2,
+  "watch": 2
+ },
+ {
+  "at": "2026-09-20T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$3,802~~ → **$3,728**  ($74 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-20T06:00:00+00:00",
+  "suppressed": 3,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-20T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$700~~ → **$666**  ($34 off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-20",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-20T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~31,000 pts~~ → **30,500 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "157.06 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "4",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-20T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$1,001~~ → **$989**  ($12 off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-20T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$3,986~~ → **$3,814**  ($172 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-20T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,663~~ → **$4,502**  ($161 off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-21T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$655~~ → **$616**  ($39 off, 6%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-20",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-21T06:00:00+00:00",
+  "suppressed": 2,
+  "watch": 1
+ },
+ {
+  "at": "2026-09-21T06:00:00+00:00",
+  "suppressed": 3,
+  "watch": 2
+ },
+ {
+  "at": "2026-09-21T06:00:00+00:00",
+  "suppressed": 5,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-21T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$606~~ → **$567**  ($39 off, 6%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-18",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-21T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$678~~ → **$582**  ($96 off, 14%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-19",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-21T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~26,000 pts~~ → **25,500 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "164.03 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-21T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~29,000 pts~~ → **28,500 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "138.69 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-21T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$993~~ → **$926**  ($67 off, 7%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-21T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,014~~ → **$3,994**  ($20 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-21T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,242~~ → **$4,005**  ($237 off, 6%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-22T06:00:00+00:00",
+  "suppressed": 1,
+  "watch": 1
+ },
+ {
+  "at": "2026-09-22T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$902~~ → **$867**  ($35 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-22T06:00:00+00:00",
+  "suppressed": 3,
+  "watch": 2
+ },
+ {
+  "at": "2026-09-22T06:00:00+00:00",
+  "suppressed": 3,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-22T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$589~~ → **$563**  ($26 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-19",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-22T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~22,500 pts~~ → **21,500 pts**  (1,000 pts off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "129.39 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-22T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$867~~ → **$864**  ($3 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-22T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~28,500 pts~~ → **27,000 pts**  (1,500 pts off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "52.19 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "1",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-22T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~75,000 pts~~ → **73,000 pts**  (2,000 pts off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "101.54 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "6",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-22T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~80,000 pts~~ → **77,500 pts**  (2,500 pts off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "18.50 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "5",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-22T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~80,500 pts~~ → **77,000 pts**  (3,500 pts off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "american",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "118.39 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-22T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,223~~ → **$4,207**  ($16 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-23T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$864~~ → **$846**  ($18 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-23T06:00:00+00:00",
+  "suppressed": 2,
+  "watch": 2
+ },
+ {
+  "at": "2026-09-23T06:00:00+00:00",
+  "suppressed": 3,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-23T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$596~~ → **$583**  ($13 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-18",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-23T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$1,101~~ → **$1,041**  ($60 off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-23T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~28,000 pts~~ → **26,500 pts**  (1,500 pts off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "56.76 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-23T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~74,000 pts~~ → **72,000 pts**  (2,000 pts off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "165.90 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-23T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$3,976~~ → **$3,793**  ($183 off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-23T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~78,000 pts~~ → **75,000 pts**  (3,000 pts off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "78.09 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "4",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-23T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,212~~ → **$4,185**  ($27 off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-23T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~75,500 pts~~ → **75,000 pts**  (500 pts off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "156.51 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "1",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-23T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,033~~ → **$3,886**  ($147 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-24T06:00:00+00:00",
+  "suppressed": 1,
+  "watch": 1
+ },
+ {
+  "at": "2026-09-24T06:00:00+00:00",
+  "suppressed": 2,
+  "watch": 2
+ },
+ {
+  "at": "2026-09-24T06:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~73,500 pts~~ → **69,000 pts**  (4,500 pts off, 6%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "american",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "133.39 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "6",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-24T06:00:00+00:00",
+  "suppressed": 3,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-24T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$593~~ → **$571**  ($22 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-18",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-24T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$777~~ → **$776**  ($1 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-20",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-24T18:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → LHR",
+   "description": "Spring in London",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~26,500 pts~~ → **26,000 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "142.77 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-24T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$999~~ → **$997**  ($2 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-24T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$1,020~~ → **$983**  ($37 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-24T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~78,000 pts~~ → **77,500 pts**  (500 pts off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "22.20 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-24T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,228~~ → **$4,210**  ($18 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-24T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$3,992~~ → **$3,962**  ($30 off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-24T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~75,500 pts~~ → **74,500 pts**  (1,000 pts off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "125.34 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "2",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-25T06:00:00+00:00",
+  "suppressed": 1,
+  "watch": 1
+ },
+ {
+  "at": "2026-09-25T06:00:00+00:00",
+  "suppressed": 4,
+  "watch": 2
+ },
+ {
+  "at": "2026-09-25T06:00:00+00:00",
+  "suppressed": 3,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-25T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$777~~ → **$723**  ($54 off, 7%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-20",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-25T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$930~~ → **$928**  ($2 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-25T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~27,500 pts~~ → **26,500 pts**  (1,000 pts off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "22.55 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "5",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-25T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$971~~ → **$922**  ($49 off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-25T18:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~72,000 pts~~ → **61,500 pts**  (10,500 pts off, 15%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "48.25 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "4",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-25T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,070~~ → **$3,986**  ($84 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-25T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,083~~ → **$3,958**  ($125 off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-25T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,246~~ → **$4,244**  ($2 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-26T06:00:00+00:00",
+  "suppressed": 2,
+  "watch": 1
+ },
+ {
+  "at": "2026-09-26T06:00:00+00:00",
+  "suppressed": 2,
+  "watch": 2
+ },
+ {
+  "at": "2026-09-26T06:00:00+00:00",
+  "suppressed": 5,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-26T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$616~~ → **$590**  ($26 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-18",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-26T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$680~~ → **$677**  ($3 off, 0%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-19",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-26T18:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$928~~ → **$821**  ($107 off, 12%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-26T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$850~~ → **$821**  ($29 off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-26T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~27,500 pts~~ → **27,000 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "british",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "179.06 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "5",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "BA",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-26T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$985~~ → **$925**  ($60 off, 6%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-26T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,398~~ → **$4,356**  ($42 off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-26T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~75,000 pts~~ → **72,000 pts**  (3,000 pts off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "72.35 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "4",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$821~~ → **$805**  ($16 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-05",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T06:00:00+00:00",
+  "embed": {
+   "title": "🏆  Lowest ever: SLC → LHR",
+   "description": "Spring in London",
+   "color": 10181046,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$816~~ → **$797**  ($19 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T06:00:00+00:00",
+  "embed": {
+   "title": "🎯  Target hit: SLC → LHR",
+   "description": "Spring in London",
+   "color": 15844367,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~27,000 pts~~ → **25,500 pts**  (1,500 pts off, 6%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "55.76 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T06:00:00+00:00",
+  "suppressed": 4,
+  "watch": 3
+ },
+ {
+  "at": "2026-09-27T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$602~~ → **$570**  ($32 off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-18",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$683~~ → **$662**  ($21 off, 3%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-19",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: DEN → HNL",
+   "description": "Holiday Honolulu",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$753~~ → **$708**  ($45 off, 6%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-12-20",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Southwest, United",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #1"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~30,000 pts~~ → **29,500 pts**  (500 pts off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-06",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "virginatlantic",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "59.49 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "3",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "VS, DL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → LHR",
+   "description": "Spring in London",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$974~~ → **$919**  ($55 off, 6%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2027-03-07",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Economy",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, Virgin Atlantic",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #2"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,085~~ → **$4,033**  ($52 off, 1%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-10",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~77,500 pts~~ → **74,500 pts**  (3,000 pts off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "60.93 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "6",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,294~~ → **$4,205**  ($89 off, 2%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-11",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Nonstop",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~$4,107~~ → **$3,963**  ($144 off, 4%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-12",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "google_flights",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "Delta, JAL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ },
+ {
+  "at": "2026-09-27T18:00:00+00:00",
+  "embed": {
+   "title": "📉  Price drop: SLC → NRT",
+   "description": "Tokyo in November",
+   "color": 3066993,
+   "fields": [
+    {
+     "name": "Price",
+     "value": "~~77,000 pts~~ → **73,000 pts**  (4,000 pts off, 5%)",
+     "inline": false
+    },
+    {
+     "name": "Date",
+     "value": "2026-11-13",
+     "inline": true
+    },
+    {
+     "name": "Cabin",
+     "value": "Business",
+     "inline": true
+    },
+    {
+     "name": "Program",
+     "value": "alaska",
+     "inline": true
+    },
+    {
+     "name": "Taxes",
+     "value": "122.45 USD",
+     "inline": true
+    },
+    {
+     "name": "Seats",
+     "value": "6",
+     "inline": true
+    },
+    {
+     "name": "Airlines",
+     "value": "JL",
+     "inline": true
+    },
+    {
+     "name": "Routing",
+     "value": "Connecting",
+     "inline": true
+    }
+   ],
+   "footer": {
+    "text": "Watch #3"
+   }
+  }
+ }
+]

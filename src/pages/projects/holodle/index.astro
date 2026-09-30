@@ -1,0 +1,74 @@
+---
+import CaseStudy from '../../../layouts/CaseStudy.astro'
+---
+
+<CaseStudy slug="holodle">
+  <div class="stats" slot="stats">
+    <div class="stat"><div class="value">116</div><div class="label">commits in three months</div></div>
+    <div class="stat"><div class="value">~176</div><div class="label">automated tests</div></div>
+    <div class="stat"><div class="value">6</div><div class="label">clues per guess</div></div>
+    <div class="stat"><div class="value">$0</div><div class="label">a month to host</div></div>
+  </div>
+
+  <h2>Why I built it</h2>
+  <p>
+    A Discord community I’m in wanted a daily guessing game about the VTubers (streamers who use animated avatars) they follow, something like Wordle but played together in a voice call. Everyone gets the same puzzle, you can watch your friends’ progress as it
+    happens, and nobody can spoil the answer.
+  </p>
+
+  <h2>How it works</h2>
+  <p>
+    It’s a Discord Activity, which is a web app that runs inside Discord. The front end is React, and the server
+    uses Fastify and Socket.IO for live updates. Other players in the call see your colored squares but not who you guessed.
+  </p>
+  <p>
+    The answer isn’t sent to your browser until your game is over. The server grades every guess, so there’s nothing to dig out of the page.
+  </p>
+  <p>
+    Each day’s answer is picked so that recent ones are unlikely to come back soon and every VTuber gets a turn over time. The day rolls over at your own midnight, daylight saving included. At the end of the day, the
+    server draws everyone’s results as an image and posts it back to the channel.
+  </p>
+
+  <h2>Measuring the game</h2>
+  <p>
+    I built an admin page so I could answer design questions with data. For each guess people made, it
+    rebuilds the list of possible answers they were facing and measures how much each clue narrowed it down.
+    That shows which clues help the most and which barely help at all. There’s also a solver that suggests
+    the best next guess, which is a handy way to check whether a puzzle is fair.
+  </p>
+
+  <h2>Making sure it’s right</h2>
+  <p>
+    About 176 automated tests cover grading, the daily picker (time zones and daylight saving included), the
+    analytics, and how it handles requests from Discord. Later work went through pull requests.
+  </p>
+
+  <Fragment slot="demo">
+    <h2 id="demo">Play it</h2>
+    <p>
+      This is Holodle’s real front end, set up to run without its server or Discord. Your guesses are graded by the same code the server uses, and three pretend friends play the same puzzle next to you.
+      Fan-made, not affiliated with Cover Corp.
+    </p>
+    <div class="demo-frame">
+      <div class="demo-bar">
+        <span class="seg" id="puzzle-pick">
+          <button class="on" data-back="0">Today</button>
+          <button data-back="1">Yesterday</button>
+          <button data-back="2">2 days ago</button>
+        </span>
+        <a href="/projects/holodle/demo/" id="holodle-full">Open full screen ↗</a>
+      </div>
+      <iframe id="holodle-frame" src="/projects/holodle/demo/" title="holodle demo" loading="lazy" style="height: 860px; background: transparent"></iframe>
+    </div>
+    <script is:inline>
+      document.querySelectorAll('#puzzle-pick button').forEach((b) =>
+        b.addEventListener('click', () => {
+          const url = '/projects/holodle/demo/' + (b.dataset.back === '0' ? '' : '?puzzle=' + b.dataset.back)
+          document.getElementById('holodle-frame').src = url
+          document.getElementById('holodle-full').href = url
+          document.querySelectorAll('#puzzle-pick button').forEach((x) => x.classList.toggle('on', x === b))
+        }),
+      )
+    </script>
+  </Fragment>
+</CaseStudy>

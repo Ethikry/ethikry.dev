@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- The header's teal badge with an E built from bars, so it stays crisp at
+       16px. The dark-mode variant uses the brighter teal from the dark theme. -->
+  <style>
+    .bg { fill: #0d7a68 }
+    .fg { fill: #ffffff }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #3cc4a8 }
+      .fg { fill: #07201b }
+    }
+  </style>
+  <rect class="bg" width="64" height="64" rx="16" />
+  <rect class="fg" x="19" y="15" width="9" height="34" rx="2" />
+  <rect class="fg" x="19" y="15" width="27" height="8" rx="2" />
+  <rect class="fg" x="19" y="28" width="22" height="8" rx="2" />
+  <rect class="fg" x="19" y="41" width="27" height="8" rx="2" />
+</svg>

@@ -1,0 +1,82 @@
+---
+import CaseStudy from '../../../layouts/CaseStudy.astro'
+import AlertFeed from '../../../demos/flight/AlertFeed'
+---
+
+<CaseStudy slug="flight-monitor">
+  <div class="stats" slot="stats">
+    <div class="stat"><div class="value">225</div><div class="label">automated tests</div></div>
+    <div class="stat"><div class="value">4</div><div class="label">alert rules</div></div>
+    <div class="stat"><div class="value">22</div><div class="label">airline mileage programs</div></div>
+    <div class="stat"><div class="value">486</div><div class="label">airports you can search</div></div>
+  </div>
+
+  <h2>Why I built it</h2>
+  <p>
+    Good award seats and cheap fares come and go, and checking a dozen dates across a few airline programs every
+    day isn’t realistic. The alert tools I tried were either silent or so noisy I muted them. I wanted something that watches the exact trips I care about and only alerts me when a price is worth acting on.
+  </p>
+
+  <h2>How it works</h2>
+  <p>
+    You save a “watch”: a route, a range of dates, a cabin, which mileage programs to check, and optional target
+    prices. Round trips are set as a trip length (say, nine days) instead of a fixed return date, so watching a
+    range of departure dates doesn’t cost extra requests.
+  </p>
+  <p>
+    It plans its requests around each data source. Award prices come back for a whole date range in one call.
+    Cash fares have to be fetched one date at a time, so it paces itself to one request every three seconds and
+    makes cash tracking optional. Requests go one after another on purpose, because one source rejects requests
+    made at the same time.
+  </p>
+  <p>
+    Under the hood it’s a small FastAPI app with a SQLite database, a scheduler for polling and a weekly summary,
+    and a plain HTML and JavaScript front end.
+  </p>
+
+  <h2>The rules</h2>
+  <p>The alerts follow four rules, which I wrote down before writing any code:</p>
+  <ol>
+    <li><strong>A new watch stays quiet at first.</strong> It just records prices, so you don’t get an alert for every date at once.</li>
+    <li><strong>A new all-time low always alerts.</strong> These are rare, so I always want to hear about them.</li>
+    <li><strong>Hitting your target price alerts once,</strong> not again on every check while it stays low.</li>
+    <li><strong>Ordinary drops are limited to one alert a day,</strong> so a price that slides a little each time doesn’t flood you.</li>
+  </ol>
+  <p>
+    The rules live in one function that doesn’t depend on the clock or the database, which makes each one easy to
+    test on its own. The full suite has 225 tests, and none of them need an internet connection.
+  </p>
+
+  <h2>What I learned</h2>
+  <p>
+    The first version was a Discord bot with a lot of features. After using it for a while, I realized I only
+    needed a few watches and alerts I could trust. So I rebuilt it as a small web app. I kept the code that talks
+    to the fare sources and rewrote the core around those four rules.
+  </p>
+
+  <Fragment slot="demo">
+    <h2 id="demo">Try it</h2>
+    <p>
+      This is the project’s real front end, with the backend replaced by sample data in your browser. Search any
+      route, open a watch’s price history, or hit <em>Check now</em> to run one more check. The history and the
+      alerts below come from running made-up fares through the real alert rules.
+    </p>
+    <div class="demo-frame">
+      <div class="demo-bar">
+        <span><span class="dots"><i></i><i></i><i></i></span>Flight Monitor <span class="synthetic">sample data</span></span>
+        <span>
+          <a href="/projects/flight-monitor/demo/watches/">Watches ↗</a> ·
+          <a href="/projects/flight-monitor/demo/">Search ↗</a>
+        </span>
+      </div>
+      <iframe src="/projects/flight-monitor/demo/watches/" title="Flight Monitor demo" loading="lazy" style="height: 900px"></iframe>
+    </div>
+
+    <h3>The alerts it sent</h3>
+    <p class="note">
+      Two weeks of Discord alerts for those same fares, formatted by the project’s own code. The grey “held
+      back” lines are small drops the once-a-day rule kept quiet.
+    </p>
+    <AlertFeed />
+  </Fragment>
+</CaseStudy>

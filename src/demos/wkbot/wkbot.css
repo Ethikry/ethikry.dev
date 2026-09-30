@@ -1,0 +1,21 @@
+.wk {
+  padding: 18px;
+}
+.wk-select {
+  font-family: var(--font);
+  font-size: 13px;
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  padding: 5px 10px;
+}
+.wk-check {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr));
+  gap: 12px;
+  margin: 12px 0;
+}
+.wk .dc-scroll {
+  max-height: 640px;
+}
