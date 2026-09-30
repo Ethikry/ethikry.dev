@@ -60,3 +60,6 @@ custom domain. It serves `dist/` and hands `/projects/song-rank/*` to the
 `ethikry-song-rank` Worker. `scripts/check-leaks.mjs` fails the build if the
 product monitor pages name the stores, or if any page contains a personal
 email, phone number or credential-shaped string.
+The names it screens for are kept in `scripts/leak-terms.private.json`, which
+is git-ignored (listing them here would publish them). Without that file the
+generic checks still run, and `pnpm run deploy` refuses to go ahead.
