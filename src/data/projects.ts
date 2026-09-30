@@ -110,7 +110,7 @@ export const PROJECTS: Project[] = [
     slug: 'flight-monitor',
     title: 'Flight Price Monitor',
     blurb:
-      'Keeps an eye on the trips I want to take, for both points and cash fares, and only alerts me when a price is worth acting on. It was more useful before Google Flights added award fares 😂',
+      'Keeps an eye on the trips I want to take, for both points and cash fares, and only alerts me when a price is worth acting on. It was more useful before Google Flights added award fares 😅',
     summary:
       'Tracks award points and cash fares for saved trips, alerts on new lows and target prices, and limits smaller drops to one alert a day.',
     stack: ['Python', 'FastAPI', 'SQLAlchemy', 'SQLite', 'JavaScript'],
